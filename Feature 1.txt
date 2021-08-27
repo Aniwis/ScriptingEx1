@@ -1,1 +1,4 @@
-Diosito ayuda everything is exhausting 
+faqs{
+
+yes();
+}
