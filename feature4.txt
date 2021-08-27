@@ -3,3 +3,7 @@ m1
 {
 fluff friend
 }
+m2
+{
+fluff fluff
+}
