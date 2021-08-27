@@ -1,1 +1,7 @@
-Diosito ayuda everything is exhausting 
+faqs{
+
+if (question){
+answer();
+}
+
+}
