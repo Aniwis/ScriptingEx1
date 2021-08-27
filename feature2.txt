@@ -1,5 +1,4 @@
-escoliosis{
+if(escoliosis){
 
-pain();
-bones();
+cure();
 }
