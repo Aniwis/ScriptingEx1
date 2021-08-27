@@ -1,4 +1,5 @@
 escoliosis{
 
 pain();
+bones();
 }
